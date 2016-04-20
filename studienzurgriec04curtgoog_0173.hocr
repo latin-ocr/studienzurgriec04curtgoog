@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./studienzurgriec04curtgoog_0173.png"; bbox 0 0 3020 4878; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 27 1428 1181 1830">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 27 1428 1181 1830">
+     <span class='ocr_line' id='line_1_1' title="bbox 363 1428 747 1520; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 363 1453 365 1460; x_wconf 81' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 491 1428 641 1518; x_wconf 84' lang='lat' dir='ltr'>UEBER</span> <span class='ocrx_word' id='word_1_3' title='bbox 667 1429 747 1520; x_wconf 84' lang='lat' dir='ltr'><strong>DIE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 27 1634 1181 1830; baseline 0 -29"><span class='ocrx_word' id='word_1_4' title='bbox 27 1634 30 1642; x_wconf 71' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 74 1687 179 1804; x_wconf 66' lang='lat' dir='ltr'><strong>vom</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 214 1687 434 1804; x_wconf 74' lang='lat' dir='ltr'><strong>STAMME</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 469 1691 553 1806; x_wconf 78' lang='lat' dir='ltr'><strong>mo</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 581 1671 729 1830; x_wconf 69' lang='lat' dir='ltr'><strong>ano)</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 764 1685 1181 1804; x_wconf 72' lang='lat' dir='ltr'><strong>ABGELEITETEN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 278 1992 966 2112">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 278 1992 966 2112">
+     <span class='ocr_line' id='line_1_3' title="bbox 278 1992 966 2112; baseline 0 -2"><span class='ocrx_word' id='word_1_10' title='bbox 278 1994 606 2112; x_wconf 79' lang='lat' dir='ltr'><strong>[TALISCHEN</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 642 1992 966 2110; x_wconf 84' lang='lat' dir='ltr'><strong>PARTIKELN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1514 4878">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1514 4878">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1514 4878; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1514 4878; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
